@@ -9,12 +9,12 @@
 }
 
 .box-container {
-  padding-bottom: 20rem;
+  padding-bottom: 5rem;
 }
 
 .box {
-  width: 20rem;
-  height: 20rem;
+  width: 15rem;
+  height: 15rem;
   background-color: aquamarine;
   display: flex;
   flex-direction: column;
